@@ -8,7 +8,7 @@ export class DataService {
 
   constructor(private http: HttpClient) { }
 
-  url = 'http://127.0.0.1:3000/article/';
+  url = 'http://blogmeantuto1.yolio.tech/article/';
 
 
 
